@@ -60,6 +60,9 @@ coverage.xml
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+chgk/chgk/chgk/settings.py
+.DS_Store
+.idea/
 
 # Flask stuff:
 instance/
